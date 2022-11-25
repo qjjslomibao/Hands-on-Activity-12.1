@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS                      PORTS                                       NAMES
+c7820cf319ea   sampleapp     "/bin/sh -c 'python3…"   11 minutes ago   Up 11 minutes               0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+77595fb89ba0   ubuntu        "/bin/bash"              45 hours ago     Exited (255) 23 hours ago                                               hopeful_sammet
+584681b4d243   ubuntu        "bash"                   45 hours ago     Exited (0) 45 hours ago                                                 intelligent_pare
+84328115376d   hello-world   "/hello"                 2 days ago       Exited (0) 2 days ago                                                   inspiring_kirch
